@@ -1,0 +1,196 @@
+@media only screen and (min-width: 1600px) {
+    
+}
+/* Medium Layout: 1200px. */
+@media only screen and (min-width: 1600px) and (max-width: 1680px){
+    
+}
+@media only screen and (min-width: 1440px) and (max-width: 1599px){
+    
+}
+/*my laptop*/
+@media only screen and (min-width: 1366px) and (max-width: 1439px){
+    
+}
+@media only screen and (min-width: 1201px) and (max-width: 1599px){
+    
+}
+@media only screen and (min-width: 1201px) and (max-width: 1365px){
+    
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    
+	.service-area:before {
+	    width: 100%;
+	}
+	.service-dont-content {
+	    position: static;
+	    top: inherit;
+	    transform: inherit;
+	    margin-top: 50px;
+	}
+	.service-dont-offer h3, .service-dont-offer ul li {
+	    color: #ffffff;
+	}
+	.work-wrap:nth-of-type(odd) .work-thumb, .work-wrap:nth-of-type(odd) .work-content {
+	    float: none;
+	}
+	.work-wrap .work-thumb, .work-wrap .work-content {
+	    width: 100%;
+	}
+
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 864px){
+    
+}
+/* Tablet Layout wide: 768px. */
+
+@media only screen and (max-width: 767px) {
+
+	.banner-area .hero-bg {
+	    right: 0;
+	    width: 100%;
+	    z-index: -1;
+	}
+   .service-area:before {
+       width: 100%;
+   }
+   .service-dont-content {
+       position: static;
+       top: inherit;
+       transform: inherit;
+       margin-top: 50px;
+   }
+   .service-dont-offer h3, .service-dont-offer ul li {
+       color: #ffffff;
+   }
+   .work-wrap:nth-of-type(odd) .work-thumb, .work-wrap:nth-of-type(odd) .work-content {
+       float: none;
+   }
+   .work-wrap .work-thumb, .work-wrap .work-content {
+       width: 100%;
+   }
+   .widget.footer-contact a {
+       line-break: anywhere;
+   }
+
+}
+
+@media only screen and (max-width: 684px) {
+    
+  
+}
+
+@media (max-width: 667px){
+    
+    
+}
+/* medium tablet layout 425px */
+
+@media only screen and (max-width: 599px) {
+    
+    .banner-content h1 {
+        font-size: 29px;
+        line-height: 39px;
+    }
+    .banner-content h2 {
+        font-size: 19px;
+    }
+    a.btn.btn-nonstop {
+        font-size: 14px;
+    }
+    .banner-area .hero-bg {
+        right: 0;
+        width: 100%;
+        z-index: -1;
+    }
+    .service-area:before {
+        width: 100%;
+    }
+    .service-dont-content {
+        position: static;
+        top: inherit;
+        transform: inherit;
+        margin-top: 50px;
+    }
+    .facebook-adds {
+        padding: 30px 20px;
+        width: 100%;
+    }
+    .service-dont-offer h3, .service-dont-offer ul li {
+        color: #ffffff;
+    }
+    .work-wrap:nth-of-type(odd) .work-thumb, .work-wrap:nth-of-type(odd) .work-content {
+        float: none;
+    }
+    .work-wrap .work-thumb, .work-wrap .work-content {
+        width: 100%;
+    }
+    .service-dont-offer ul li {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .single-work {
+        padding: 30px 20px;
+    }
+    .about-content h2, .service-offer h2, .works-area .title h2, .how-works-area .title h2,
+     .faq-area .title h2{
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .service-dont-offer h3 {
+    	font-size: 32px;
+    	line-height: 40px;
+    }
+    .service-offer h4, .faq-area .title h4, .work-content h2 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .single-work-content h4 span {
+        display: inline-block;
+    }
+
+
+
+
+
+   }
+
+/* mobile tablet layout 414px */
+
+@media only screen and (max-width: 414px) {
+    
+}
+
+
+/* mobile tablet layout 375px */
+
+@media only screen and (max-width: 384px) {
+    
+}
+
+
+/* mobile tablet layout 360px */
+
+@media only screen and (max-width: 360px) {
+
+    
+}
+
+
+/* mobile tablet layout 320px */
+
+@media only screen and (max-width: 320px) {
+  
+}
